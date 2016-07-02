@@ -1,15 +1,15 @@
 //
-//  DropdownMenuTests.swift
-//  DropdownMenuTests
+//  RTDropdownMenuTests.swift
+//  RTDropdownMenuTests
 //
 //  Created by jx on 16/7/3.
 //  Copyright © 2016年 ziqi. All rights reserved.
 //
 
 import XCTest
-@testable import DropdownMenu
+@testable import RTDropdownMenu
 
-class DropdownMenuTests: XCTestCase {
+class RTDropdownMenuTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

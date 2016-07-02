@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  DropdownMenu
+//  RTDropdownMenu
 //
 //  Created by jx on 16/7/3.
 //  Copyright © 2016年 ziqi. All rights reserved.
